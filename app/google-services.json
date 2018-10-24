@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "673473011334",
+    "firebase_url": "https://ass1-5850b.firebaseio.com",
+    "project_id": "ass1-5850b",
+    "storage_bucket": "ass1-5850b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673473011334:android:5a32b85e327d4165",
+        "android_client_info": {
+          "package_name": "com.example.shruthi.lab_challenge_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673473011334-6jol2ft0iui98v37n0rv2a169pekc1ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1qPCFcea8pZUjKuosk_hAhWoq9UuZQ94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
